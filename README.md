@@ -14,7 +14,7 @@ Demo project for Apache Kafka
 
 ### Installation:
 
-1.  Clone the repository: `git clone <repository_url>` - *[Developer: Please replace `<repository_url>` with the actual URL of this repository]*
+1.  Clone the repository: `git clone https://github.com/kabragaurav/user-sdk.git`
 2.  Build the project: `mvn clean install` (typical for Maven projects) - *[Developer: Please verify if this is the correct build command]*
 
 ## Running Tests
